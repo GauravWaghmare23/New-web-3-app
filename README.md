@@ -330,4 +330,4 @@ For support, email support@cryptotradeai.dev or join our Discord community.
 
 ---
 
-**⚠️ Disclaimer**: This is a testnet application for educational purposes only. Do not use real money or mainnet tokens. Always DYOR (Do Your Own Research) before making any financial decisions.
+**⚠️ Disclaimer**: This is a testnet application for educational purposes only. Do not use real money or mainnet tokens. Always DYOR (Do Your Own Research) before making any financial decisions.# New-web-3-app
